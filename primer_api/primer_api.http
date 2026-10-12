@@ -1,0 +1,6 @@
+@primer_api_HostAddress = http://localhost:5144
+
+GET {{primer_api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
